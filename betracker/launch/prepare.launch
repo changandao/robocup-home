@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<launch>
+        <!--
+  <node pkg="tf" type="static_transform_publisher" name="base_head_link" args="-0.062 0.000 0.193 0 0 0 1 base_link torso_fixed_link 100"/>
+  <node pkg="tf" type="static_transform_publisher" name="head_xtion_link" args="0.091 0.080 0.000 0.707 -0.000 0.707 -0.000 head_2_link xtion_link 100"/>
+  <node pkg="tf" type="static_transform_publisher" name="xtion_rgb_link" args="0.000 0.022 0.000 -0.500 0.500 -0.500 0.500 xtion_link xtion_rgb_optical_frame 100"/>
+  <node pkg="tf" type="static_transform_publisher" name="xtion_depth_link" args="0.000 0.047 0.000 -0.500 0.500 -0.500 0.500 xtion_link xtion_depth_optical_frame 100"/>
+-->
+
+  <rosparam command="load" ns="betracker" file="$(find betracker)/config/parameters.yaml" />
+  <include file="$(find darknet_ros)/launch/person_darknet_ros.launch">
+    <arg name="launch_prefix" value="gdb -ex run --args"/>
+  </include>
+ <!--<node name="republish" type="republish" pkg="image_transport" output="screen" 	args="compressed in:=/front_camera/image_raw raw out:=/camera/image_raw" /> -->
+ <!--node name="tracker_ukf" type="tracker_ukf" pkg="betracker" output="screen" 	args="-d $(find betracker)/src/betracker_node.cpp"/-->
+  <!--<node name="object_sending" type="object_sending" pkg="perception" output="screen" 	args="-d $(find betracker)/src/object_sending.cpp"/>-->
+</launch>
+

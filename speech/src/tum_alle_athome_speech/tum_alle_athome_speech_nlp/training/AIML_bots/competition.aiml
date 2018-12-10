@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+  <category>
+    <pattern>IN WHICH YEAR ROBOCUP AT HOME WAS FOUNDED</pattern>
+    <template>
+      <random>
+        <li>RoboCup At Home was founded in 2013</li>
+        <li>It was founded in 2013</li>
+        <li>The first competition took place in 2013</li>
+      </random>
+    </template>
+  </category>
+  <category>
+    <pattern>WHAT IS YOUR NAME</pattern>
+    <template>
+      <random>
+        <li>My name is Tiago</li>
+        <li>Friends call me Tiago</li>
+        <li>I was told that my name is Tiago</li>
+      </random>
+    </template>
+  </category>
+  <category>
+    <pattern>WHAT IS YOUR TEAMS NAME</pattern>
+    <template>
+      <random>
+        <li>My team is called Alle At Home</li>
+        <li>We called ourselves Alle At Home</li>
+      </random>
+    </template>
+  </category>
+  <category>
+    <pattern>WHICH ROBOT IS USED IN THE OPEN PLATFORM LEAGUE</pattern>
+    <template>There is no standard robot defined for OPL</template>
+  </category>
+  <category>
+    <pattern>WHICH ROBOT IS USED IN THE DOMESTIC STANDARD PLATFORM LEAGUE</pattern>
+    <template>The Toyota Human Support Robot</template>
+  </category>
+  <category>
+    <pattern>WHICH ROBOT IS USED IN THE SOCIAL STANDARD PLATFROM LEAGUE</pattern>
+    <template>The SoftBank Robotics Pepper</template>
+  </category>
+  <category>
+    <pattern>IN WHICH CITY WILL NEXT YEARS ROBOCUP BE HOSTED</pattern>
+    <template>It hasn't been announced yet</template>
+  </category>
+</aiml>

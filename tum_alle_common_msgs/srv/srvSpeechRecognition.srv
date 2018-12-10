@@ -1,0 +1,6 @@
+# @param action: start or stop as string
+# @param command: bring, follow, move, say, empty string
+string action
+string command
+---------------------
+bool response

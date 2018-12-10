@@ -1,0 +1,4 @@
+sensor_msgs/Image     depth_image
+msg2DPrediction       prediction2D
+---
+float32               depth

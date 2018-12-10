@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+
+	<node name="yolo_roi" type="yolo_roi" pkg="perception" output="screen" />
+	<node name="online_collecting" type="online_collecting" pkg="perception" output="screen" />
+	<node name="online_learning" type="online_learning" pkg="perception" output="screen" />
+	<node name="head_tracking" type="head_tracking" pkg="perception" output="screen" />
+	<node name="depth2pointcloud" type="depth2pointcloud" pkg="perception" output="screen"/>
+
+</launch>

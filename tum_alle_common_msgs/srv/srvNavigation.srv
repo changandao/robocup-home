@@ -1,0 +1,7 @@
+string command
+string location_id
+geometry_msgs/Point location_pose
+----------------------------------------------------- 
+string status
+
+

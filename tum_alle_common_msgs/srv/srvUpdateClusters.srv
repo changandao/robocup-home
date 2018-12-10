@@ -1,0 +1,5 @@
+string cluster_name
+geometry_msgs/PoseStamped pose
+float32 width
+---
+bool result

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+
+	<node name="depthprocessing" type="depthprocessing" pkg="perception" output="screen" />
+	<node name="tracker_ukf" type="tracker_ukf" pkg="betracker" output="screen" />
+
+</launch>

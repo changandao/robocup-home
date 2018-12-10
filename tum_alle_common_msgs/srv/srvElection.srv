@@ -1,0 +1,6 @@
+int32              tracked_id
+sensor_msgs/Image  image
+int32[]            ids
+msg2DPrediction[]  predictions
+---
+bool[] result

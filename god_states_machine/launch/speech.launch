@@ -1,0 +1,19 @@
+<launch>
+    <node name="HotwordRecogniser" pkg="tum_alle_athome_speech_hotword" type="hotword-detect.py" output="screen">
+        <param name="hotword_model_tiago" value="$(find tum_alle_athome_speech_hotword)/resources/Tiago.pmdl"/>
+        <param name="hotword_model_say" value="$(find tum_alle_athome_speech_hotword)/resources/Say.pmdl"/>
+        <param name="hotword_model_move" value="$(find tum_alle_athome_speech_hotword)/resources/Move.pmdl"/>
+        <param name="hotword_model_follow" value="$(find tum_alle_athome_speech_hotword)/resources/Follow.pmdl"/>
+        <param name="hotword_model_bring" value="$(find tum_alle_athome_speech_hotword)/resources/Bring.pmdl"/>
+        <param name="hotword_model_start" value="$(find tum_alle_athome_speech_hotword)/resources/Start.pmdl"/>
+        <param name="hotword_model_wait" value="$(find tum_alle_athome_speech_hotword)/resources/Wait.pmdl"/>
+        <param name="hotword_model_stop" value="$(find tum_alle_athome_speech_hotword)/resources/Stop.pmdl"/>
+        <param name="hotword_model_yes" value="$(find tum_alle_athome_speech_hotword)/resources/Yes.pmdl"/>
+        <param name="hotword_model_no" value="$(find tum_alle_athome_speech_hotword)/resources/No.pmdl"/>
+        <param name="commands_sensitivity" value="0.5"/>
+        <param name="tiago_sensitivity" value="0.5"/>
+        <!--param name="speech_recognition_srv" value="/tum_alle_athome_speech_recognition/speech_recog"/-->
+	<param name="speech_recognition_srv" value="/planner"/>
+    </node>
+   <node name="speech_node" pkg="tum_alle_athome_speech_tts" type="text_to_speech.py" output="screen" />
+</launch>

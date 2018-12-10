@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <!--need to be shutdown-->
+
+
+	<node name="online_learning" type="online_learning" pkg="perception" output="screen" />
+	<node name="depth2pointcloud" type="depth2pointcloud" pkg="perception" output="screen"/>
+
+</launch>

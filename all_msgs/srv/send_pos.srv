@@ -1,0 +1,4 @@
+geometry_msgs/PointStamped world_pose
+bool is_target
+---
+bool flag

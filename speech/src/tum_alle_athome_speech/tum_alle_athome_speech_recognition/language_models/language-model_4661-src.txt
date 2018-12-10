@@ -1,0 +1,1980 @@
+﻿TIAGO
+tiago
+yes
+no
+yeah
+none
+nah
+please
+thanks
+thank you
+great
+cool
+amazing
+fast
+quick
+bad
+good
+small
+big
+size
+huge
+go
+stay
+start
+stop
+
+Locate the candies in the kitchen
+candies
+manju
+
+Navigate to the TV stand, look for the soap, and deliver it to Barbara at the desk
+
+Look for the beer in the bedroom
+
+Tell me how many coke there are on the cupboard
+
+Look for the drinks in the bathroom
+drinks
+coke
+
+Tell me how many pringles there are on the sideshelf
+
+Locate the tea in the office
+
+Locate someone in the bathroom and say your team's affiliation
+
+Give me the coke from the bookcase
+
+Go to the bedside, find the manju, and place it on the bar
+
+Pick up the coke from the desk and deliver it to Erika at the living table
+
+Tell me how many coke there are on the center table
+
+Pick up the manju to the dining table
+
+Grasp the pringles from the drawer and deliver it to Hanna at the cabinet
+
+Bring the manju to me
+
+Navigate to the living room, find Jackie, and tell the day of the week
+
+Tell me the name of the person in the kitchen
+
+Look for the drinks in the office
+drinks
+coke
+
+Put the beer on the TV stand
+
+Tell me how many soap there are on the desk
+
+Pick up the noodles from the cupboard and deliver it to Skyler at the bed
+
+Get the pringles to the center table
+
+Bring to Samantha at the bed the soap from the drawer
+
+Put the coke on the bookcase
+
+Locate Skyler in the bedroom and tell the time
+
+Bring me the tea
+
+Tell me how many beer there are on the TV stand
+
+Say the day of the month to Edward at the TV stand
+
+Navigate to the bedroom, locate someone, and answer a question
+question
+In which city will next year's RoboCup be hosted?
+It hasn't been announced yet.
+
+Tell me the name of the person in the bathroom
+
+Look for the snacks in the bathroom
+snacks
+pringles
+
+Locate the manju in the office
+
+Find Edward in the living room and answer a question
+question
+What time is it?
+Pick up the tea from the drawer and place it on the desk
+
+Tell me the name of the person at the desk
+
+Get the tea from the TV stand to the cupboard
+
+Tell me how many soap there are on the desk
+
+Take the tea from the bedside and bring it to Barbara at the dining table
+
+Navigate to the living room, look for Thomas, and answer a question
+question
+	Q: Which robot is used in the Open Platform League
+	A: There is no standard defined for OPL
+
+Take the tea from the center table and deliver it to Ken at the dining table
+
+Tell something about yourself to Thomas at the cabinet
+
+Tell the time to Barbara at the living table
+
+Go to the bedroom, locate Skyler, and answer a question
+question
+When was invented the C programming language?
+C was developed after B in 1972 at Bell Labs
+
+Put the tea on the bedside
+
+Navigate to the living table, locate the beer, and bring it to me
+
+Take the pringles from the desk and place it on the sink
+
+Take the soap from the bar to the sink
+
+Find someone in the bathroom and tell your team's affiliation
+
+Navigate to the office, find Sophie, and answer a question
+question
+Who invented the C programming language?
+Ken Thompson and Dennis Ritchie.
+
+Navigate to the corridor, locate someone, and answer a question
+question
+Who is the emperor of Japan?
+His Majesty Akihito sama is the emperor in Japan since January 7, 1989
+
+Look for Samuel in the bathroom and say your team's name
+
+Tell me the name of the person in the bedroom
+
+Answer a question to Samantha at the TV stand
+question
+How many people live in the Japan?
+A little over 80 million
+
+Answer a question to Michael at the living table
+question
+When was invented the C programming language?
+C was developed after B in 1972 at Bell Labs
+
+Find the coke in the corridor
+
+Tell me the name of the person in the bathroom
+
+Tell me how many tea there are on the living table
+
+Tell me the name of the person at the bed
+
+Look for someone in the corridor and answer a question
+question
+Where does the term computer bug come from?
+From a moth trapped in a relay
+
+Bring me the coke
+
+Go to the desk, locate the manju, and place it on the sideshelf
+
+Pick up the noodles from the bedside and place it on the living table
+
+Find the manju in the bathroom
+
+Tell me the name of the person at the living table
+
+Look for the tea in the bathroom
+
+Bring me the beer
+
+Tell me the name of the person at the sink
+
+Grasp the soap to the center table
+
+Locate the beer in the kitchen
+
+Grasp the coke from the sink and put it on the bedside
+
+Navigate to the cupboard, look for the manju, and give it to Charlie at the TV stand
+
+Go to the cupboard, locate the pringles, and place it on the drawer
+
+Say the day of the week to Barbara at the dining table
+
+Look for the snacks in the bathroom
+snacks
+pringles
+
+Tell me the name of the person at the bed
+
+Look for someone in the bedroom and answer a question
+question
+What day is today?
+
+Navigate to the corridor, find someone, and answer a question
+question
+Who is the emperor of Japan?
+His Majesty Akihito sama is the emperor in Japan since January 7, 1989
+
+Tell me the name of the person at the dining table
+
+Find the soap in the office
+
+Give me the beer from the cupboard
+
+Tell me how many pringles there are on the cupboard
+
+Tell me the name of the person at the living table
+
+Find the peanuts in the office
+
+Tell the time to Thomas at the desk
+
+Tell me how many pringles there are on the bookcase
+
+Give the pringles to Alex at the living table
+
+Tell me how many tea there are on the living shelf
+
+Locate the toiletries in the bathroom
+toiletries
+soap
+
+Navigate to the drawer, look for the pringles, and deliver it to me
+
+Pick up the peanuts to the counter
+
+Tell me how many peanuts there are on the sideshelf
+
+Bring to Brian at the dining table the tea from the sideshelf
+
+Look for the coke in the living room
+
+Tell me how many noodles there are on the cupboard
+
+Find the peanuts in the corridor
+
+Take the coke to the living table
+
+Navigate to the counter, find the peanuts, and deliver it to Erika at the bed
+
+Put the soap on the bedside
+
+Go to the center table, locate the beer, and deliver it to Jackie at the desk
+
+Take the coke from the living shelf and put it on the counter
+
+Locate a person in the bedroom and answer a question
+question
+When was invented the B programming language?
+B was developed circa 1969 at Bell Labs
+
+Tell me the name of the person at the desk
+
+Tell me the name of the person at the sink
+
+Find the drinks in the kitchen
+drinks
+coke
+
+Find the peanuts in the bathroom
+
+Pick up the noodles from the cabinet to the living shelf
+
+Go to the office, find someone, and answer a question
+question
+When was invented the B programming language?
+B was developed circa 1969 at Bell Labs
+
+Go to the living room, find someone, and tell the day of the week
+
+Find the pringles in the office
+
+Look for the drinks in the office
+drinks
+beer
+
+Answer a question to Samantha at the living table
+question
+Which robot is used in the Domestic Standard Platform League
+The Toyota Human Support Robot
+
+Answer a question to Michael at the dining table
+question
+Which robot is used in the Open Platform League
+There is no standard defined for OPL
+
+Tell me the name of the person in the living room
+
+Find the tea in the corridor
+
+Put the tea on the bar
+
+Tell me how many manju there are on the bar
+
+Say the day of the month to Brian at the desk
+
+Bring me the pringles from the bedside
+
+Find a person in the living room and answer a question
+question
+Who is the emperor of Japan?
+His Majesty Akihito sama is the emperor in Japan since January 7, 1989
+
+Take the manju from the dining table and place it on the cabinet
+
+Tell me the name of the person at the dining table
+
+Bring me the peanuts
+
+Bring me the tea from the bar
+
+Pick up the coke to the TV stand
+
+Go to the corridor, look for Alex, and tell what day is today
+
+Find the tea in the office
+
+Find Samantha in the kitchen and answer a question
+question
+When was invented the B programming language?
+B was developed circa 1969 at Bell Labs
+
+Tell me how many soap there are on the living table
+
+Pick up the noodles from the living shelf and place it on the cupboard
+
+Look for the candies in the living room
+candies
+	manju
+
+Look for the tea in the corridor
+
+Grasp the soap from the TV stand to the bar
+
+Look for the manju in the kitchen
+
+Answer a question to Alex at the bed
+question
+Who is the emperor of Japan?
+His Majesty Akihito sama is the emperor in Japan since January 7, 1989
+
+Find Alex in the bathroom and tell your team's country
+
+Go to the counter, look for the peanuts, and place it on the TV stand
+
+Tell me the name of the person in the kitchen
+
+Give the beer to Alex at the bed
+
+Locate the manju in the living room
+
+Tell me how many beer there are on the bedside
+
+Tell me how many pringles there are on the bar
+
+Navigate to the cabinet, locate the peanuts, and deliver it to me
+
+Tell me how many soap there are on the sideshelf
+
+Locate the tea in the kitchen
+
+Tell me the name of the person in the living room
+
+Look for the coke in the office
+
+Give me the tea
+
+Tell me how many coke there are on the dining table
+
+Tell me the name of the person at the living table
+
+Look for Erik in the office and answer a question
+question
+Who is the emperor of Japan?
+His Majesty Akihito sama is the emperor in Japan since January 7, 1989
+
+Grasp the coke from the sideshelf and deliver it to me
+
+Locate the candies in the living room
+candies
+manju
+
+Navigate to the cupboard, locate the noodles, and give it to me
+
+Take the peanuts from the living table to the living shelf
+
+Give the manju to Samuel at the desk
+
+Find someone in the bathroom and answer a question
+question
+Do you have dreams?
+I dream of Electric Sheep.
+
+Go to the desk, look for the manju, and deliver it to Alex at the dining table
+
+Get the manju from the bar and place it on the sideshelf
+
+Tell me the name of the person at the cabinet
+
+Find the beer in the kitchen
+
+Find the pringles in the corridor
+
+Find Sophie in the corridor and answer a question
+question
+How many people live in the Japan?
+A little over 80 million
+
+Locate the pringles in the kitchen
+
+Take the manju from the living table and put it on the bedside
+
+Locate the snacks in the corridor
+snacks
+	pringles
+
+Look for the noodles in the office
+
+Bring to Samantha at the TV stand the tea from the bedside
+
+Get the coke to the bar
+
+Grasp the soap from the center table and put it on the TV stand
+
+Go to the bedside, locate the soap, and place it on the cabinet
+
+Deliver the peanuts to me
+
+Look for the pringles in the bathroom
+
+Tell me how many beer there are on the cabinet
+
+Tell me how many beer there are on the counter
+
+Tell me the name of the person at the bed
+
+Look for the food in the corridor
+food
+	noodles
+
+Find the food in the office
+food
+	noodles
+
+Navigate to the living table, find the pringles, and put it on the sideshelf
+
+Tell me the name of the person at the dining table
+
+Tell your team's affiliation to Hanna at the cabinet
+
+Grasp the peanuts from the bar and place it on the living shelf
+
+Navigate to the fridge, locate the noodles, and bring it to me
+
+Pick up the peanuts from the cupboard to the bar
+
+Say the time to Edward at the sink
+
+Tell me the name of the person in the corridor
+
+Tell me the name of the person at the living table
+
+Tell me the name of the person in the office
+
+Tell me the name of the person in the kitchen
+
+Go to the bedside, find the noodles, and put it on the cupboard
+
+Find the snacks in the bathroom
+snacks
+	pringles
+
+Tell me the name of the person at the living table
+
+Tell me the name of the person at the sink
+
+Tell me the name of the person in the office
+
+Place the coke on the cabinet
+
+Give me the manju
+
+Look for a person in the bathroom and say something about yourself
+
+Locate the snacks in the office
+snacks
+	pringles
+
+Pick up the soap to the cupboard
+
+Look for a person in the office and say the day of the month
+
+Deliver the manju to me
+
+﻿Meet Samuel at the sink and lead him to the living table
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the living table
+
+Go to the TV stand, meet Thomas, and go after him
+Remarks
+	 Follow Thomas to the bedroom
+
+Say the time to the rising left arm person in the bathroom
+
+Find the food in the bathroom
+food
+	apple
+
+Give me the mints from the desk
+
+Tell me the gender of the person at the cabinet
+
+Give me the mints
+
+Accompany Charlie from the desk to the bed
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the bed
+
+Tell me how many people in the kitchen are standing
+
+Find the food in the office
+food
+	apple
+
+Navigate to the cabinet, meet Ken, and follow him
+Remarks
+	 Follow Ken to the corridor
+
+Go to the dining table, meet Samantha, and accompany her to the TV stand
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the TV stand
+
+Navigate to the fridge, locate the mints, and deliver it to me
+
+Tell me the name of the person in the bathroom
+
+Find the drinks in the kitchen
+
+Look for a man in the corridor and answer a question
+question
+	Q: What is a Sakura
+	A: Sakura is the Japanese term for ornamental cherry blossom and its tree
+
+Find the paprika in the bathroom
+
+Find the food in the corridor
+
+Accompany Samuel from the desk to the TV stand
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the TV stand
+
+Tell me what's the biggest object on the cupboard
+
+Tell me how many apple there are on the dining table
+
+Look for the food in the living room
+
+Find the paprika in the office
+
+Navigate to the bed, meet Michael, and accompany him to the dining table
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the dining table
+
+Lead Edward to the living table, you will find him at the dining table
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the living table
+
+Tell me what's the largest snacks on the cupboard
+
+Meet Sophie at the bed and come after her to the corridor
+
+Navigate to the dining table, meet Thomas, and accompany him to the cabinet
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the cabinet
+
+Go to the bed, meet Brian, and follow him
+Remarks
+	 Follow Brian to the bedroom
+
+Navigate to the bed, meet Samuel, and escort him to the cabinet
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the cabinet
+
+Meet Thomas at the TV stand and go after him
+Remarks
+	 Follow Thomas to the office
+
+Meet Skyler at the bed and go after him
+Remarks
+	 Follow Skyler to the corridor
+
+Go after Skyler from the sink to the bathroom
+
+Tell me how many mints there are on the center table
+
+Grasp the paprika from the fridge and put it on the cupboard
+
+Navigate to the sink, locate the mints, and deliver it to Brian at the dining table
+
+Tell me how many apple there are on the TV stand
+
+Go to the office, look for a female person, and answer a question
+question
+	Q: What time is it?
+	A: ...
+
+Tell me the name of the person in the corridor
+
+Escort Alex from the dining table to the TV stand
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the TV stand
+
+Locate the mints in the living room
+
+Place the mints on the sink
+
+Meet Sophie at the TV stand and accompany her to the sink
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the sink
+
+Grasp the mints from the living table and put it on the bar
+
+Tell me the name of the person at the TV stand
+
+Tell me how many paprika there are on the cupboard
+
+Go to the sideshelf, locate the paprika, and place it on the bedside
+
+Bring me the mints
+
+Meet Charlie at the TV stand and lead her to the living table
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the living table
+
+Grasp the mints to the counter
+
+Tell me how many snacks there are on the cupboard
+
+Tell me what's the thinnest food on the cupboard
+
+Navigate to the cabinet, meet Samantha, and guide her to the desk
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the desk
+
+Find a sitting person in the living room and answer a question
+question
+	Q: Do you have dreams?
+	A: I dream of Electric Sheep.
+
+Find the mints in the bedroom
+
+Tell me how many people in the living room are standing
+
+Tell me how many drinks there are on the living table
+
+Accompany Erika from the desk to the cabinet
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the cabinet
+
+Navigate to the TV stand, meet Hanna, and follow her
+Remarks
+	 Follow Hanna to the kitchen
+
+Tell me what's the largest object on the sideshelf
+
+Go to the bedroom, find a male person, and answer a question
+question
+	Q: Do you have dreams?
+	A: I dream of Electric Sheep.
+
+Escort Thomas to the sink, you can find him at the bed
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the sink
+
+Meet Sophie at the dining table and accompany her to the living table
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the living table
+
+Navigate to the sink, meet Brian, and go after him
+Remarks
+	 Follow Brian to the bathroom
+
+Tell me how many people in the living room are female
+
+Guide Sophie from the desk to the bed
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the bed
+
+Follow Alex from the dining table to the bedroom
+
+Meet Thomas at the cabinet and follow him
+Remarks
+	 Follow Thomas to the kitchen
+
+Go to the sink, meet Hanna, and come after her
+Remarks
+	 Follow Hanna to the bathroom
+
+Answer a question to the rising left arm person in the living room
+question
+	Q: How many people live in the Japan?
+	A: A little over 80 million
+
+Put the paprika on the bookcase
+
+Take the paprika from the cabinet to the living shelf
+
+Take the paprika from the drawer and put it on the cupboard
+
+Bring me the mints from the drawer
+
+Get the paprika from the bar to the drawer
+
+Find the candies in the living room
+
+Give me the apple
+
+Bring the mints from the living room to the bookcase
+
+Bring me the apple
+
+Accompany Erik to the bed, you may find him at the living table
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the bed
+
+Meet Skyler at the desk and follow him
+Remarks
+	 Follow Skyler to the office
+
+Go to the office, locate a lying person, and say a joke
+
+Place the apple on the drawer
+
+Answer a question to the pointing right person in the office
+question
+	Q: What's the name of your team?
+	A: ...
+
+Tell me what's the heaviest object on the dining table
+
+Bring the apple from the bathroom to the cabinet
+
+Answer a question to the waving person in the corridor
+question
+	Q: What is the highest point in Japan
+	A: The highest point in Japan is Mount Fuji, which reaches 3776m above sea level
+
+Meet Samantha at the cabinet and take her to the living table
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the living table
+
+Tell the day of the month to the rising right arm person in the corridor
+
+Take Erika from the bed to the cabinet
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the cabinet
+
+Look for a sitting person in the living room and say something about yourself
+
+Tell me the gender of the person at the desk
+
+Go to the TV stand, meet Michael, and follow him
+Remarks
+	 Follow Michael to the corridor
+
+Take the mints from the bathroom to the bar
+
+Tell me the name of the person at the living table
+
+Go to the dining table, meet Charlie, and follow her
+Remarks
+	 Follow Charlie to the corridor
+
+Find the mints in the living room
+
+Tell me how many paprika there are on the drawer
+
+Put the apple on the desk
+
+Give me the mints from the bedside
+
+Meet Barbara at the living table and take her to the bed
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the bed
+
+Lead Alex to the sink, you can find him at the desk
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the sink
+
+Find the paprika in the bedroom
+
+Find a girl in the corridor and answer a question
+question
+	Q: Which robot is used in the Social Standard Platform League
+	A: The SoftBank Robotics Pepper
+
+Go to the cabinet, look for the paprika, and deliver it to me
+
+Go to the desk, meet Charlie, and lead her to the sink
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the sink
+
+Take the mints from the bathroom to the fridge
+
+Locate the candies in the kitchen
+candies
+	mints
+
+Take the apple from the living room to the counter
+
+Look for the food in the kitchen
+food
+	paprika
+
+Go to the TV stand, meet Samantha, and go after her
+Remarks
+	 Follow Samantha to the bedroom
+
+Go to the drawer, find the mints, and deliver it to me
+
+Tell me the name of the person at the bed
+
+Navigate to the cabinet, meet Edward, and follow him
+Remarks
+	 Follow Edward to the corridor
+
+Navigate to the living table, meet Alex, and accompany him to the dining table
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the dining table
+
+Locate the toiletries in the corridor
+
+Answer a question to the rising left arm person in the office
+question
+	Q: Which robot is used in the Domestic Standard Platform League
+	A: The Toyota Human Support Robot
+
+Give me the paprika
+
+Guide Charlie from the TV stand to the living table
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the living table
+
+Give me the paprika
+
+Meet Charlie at the sink and take him to the dining table
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the dining table
+
+Tell me what's the thinnest candies on the drawer
+
+Pick up the paprika from the dining table and deliver it to me
+
+Go to the TV stand, meet Thomas, and come after him
+Remarks
+	 Follow Thomas to the bedroom
+
+Go to the living table, meet Barbara, and escort her to the living table
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the living table
+
+Find the containers in the office
+
+Find the food in the kitchen
+food
+	paprika
+
+Take Jackie to the TV stand, you may find her at the desk
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the TV stand
+
+Navigate to the sink, meet Ken, and take him to the TV stand
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the TV stand
+
+Take Brian from the sink to the desk
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the desk
+
+Look for the food in the bathroom
+food
+	paprika
+
+Give the paprika to me
+
+Grasp the apple from the TV stand and give it to me
+
+Meet Skyler at the bed and go after her
+Remarks
+	 Follow Skyler to the office
+
+Tell me what's the lightest drinks on the sideshelf
+
+Navigate to the corridor, locate a woman, and tell the day of the month
+
+Pick up the mints from the bedside and place it on the sink
+
+Meet Alex at the bed and take him to the desk
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the desk
+
+Come after Thomas from the TV stand to the bathroom
+
+Navigate to the drawer, locate the apple, and put it on the bar
+
+Meet Samuel at the dining table and accompany him to the bed
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the bed
+
+Accompany Edward from the bed to the TV stand
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the TV stand
+
+Go to the cabinet, meet Barbara, and accompany her to the TV stand
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the TV stand
+
+Tell me how many people in the office are girls
+
+Give me the mints from the fridge
+
+Find a rising right arm person in the bathroom and tell something about yourself
+
+Tell me how many mints there are on the counter
+
+Find a boy in the bathroom and answer a question
+question
+	Q: Where does the term computer bug come from?
+	A: From a moth trapped in a relay
+
+Navigate to the sink, meet Barbara, and escort her to the cabinet
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the cabinet
+
+Meet Edward at the living table and lead him to the bed
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the bed
+
+Guide Thomas to the dining table, you will find him at the sink
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the dining table
+
+Find the candies in the office
+candies
+	mints
+
+Lead Michael from the TV stand to the sink
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the sink
+
+Go to the desk, meet Jackie, and guide her to the dining table
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the dining table
+
+Look for the candies in the kitchen
+candies
+	mints
+
+Go after Sophie from the cabinet to the kitchen
+
+Locate a girl in the kitchen and tell your team's country
+
+Go to the cabinet, locate the mints, and put it on the bedside
+
+Go to the cabinet, meet Samantha, and lead her to the bed
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the bed
+
+Deliver the paprika to me
+
+Tell me the pose of the person in the bedroom
+
+Go to the office, look for a woman, and answer a question
+question
+	Q: How many people live in the Japan?
+	A: A little over 80 million
+
+Tell me what's the heaviest object on the TV stand
+
+Look for the candies in the office
+candies
+	mints
+
+Go to the desk, meet Charlie, and come after him
+Remarks
+	 Follow Charlie to the living room
+
+Tell me how many apple there are on the bar
+
+Bring the apple from the bathroom to the living table
+
+Follow Sophie from the living table to the office
+
+Go to the living table, meet Hanna, and follow her
+Remarks
+	 Follow Hanna to the office
+
+Tell me the gender of the person in the kitchen
+
+Pick up the apple to the fridge
+
+Look for the candies in the kitchen
+candies
+	mints
+
+Escort Ken from the dining table to the living table
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the living table
+
+Find a sitting person in the corridor and tell something about yourself
+
+Take the mints from the center table and deliver it to me
+
+Meet Barbara at the desk and escort her to the sink
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the sink
+
+Navigate to the bed, meet Erik, and accompany him to the desk
+Remarks
+	 The person being guided must deviate when indicated by the referee before reaching the desk
+
+Bring me the mints from the dining table
+
+Follow Samantha from the desk to the bedroom
+
+Tell me the pose of the person in the kitchen
+
+Go to the bedroom, find a pointing left person, and answer a question
+question
+	Q: When was invented the C programming language?
+	A: C was developed after B in 1972 at Bell Labs
+
+Grasp the apple from the TV stand and put it on the living shelf
+
+Look for the food in the office
+food
+	apple
+
+Go to the desk, meet Michael, and follow him
+Remarks
+	 Follow Michael to the bathroom
+
+Navigate to the cabinet, meet Samantha, and come after her
+Remarks
+	 Follow Samantha to the bedroom
+
+Tell me the pose of the person in the office
+
+Navigate to the living table, locate the paprika, and put it on the bedside
+
+Locate a standing person in the living room and say the day of the month
+
+Bring me the apple from the cupboard
+
+Pick up the mints from the dining table and deliver it to me
+
+Meet Hanna at the living table and go after her
+Remarks
+	 Follow Hanna to the office
+
+Pick up the mints from the bar and give it to Skyler at the living table
+
+Go to the drawer, locate the apple, and deliver it to Ken at the desk
+
+Look for the candies in the kitchen
+
+Find the toiletries in the living room
+
+Follow Charlie from the sink to the living room
+
+Pick up the paprika to the drawer
+
+Answer a question to the pointing left person in the living room
+question
+	Q: What is the highest point in Japan
+	A: The highest point in Japan is Mount Fuji, which reaches 3776m above sea level
+
+Tell me what's the biggest food on the cupboard
+
+Navigate to the office, look for a female person, and answer a question
+question
+	Q: What is the highest point in Japan
+	A: The highest point in Japan is Mount Fuji, which reaches 3776m above sea level
+
+Could you please meet Sophie and escort her
+Sophie
+	 Sophie must be taken from bed to TV stand, but he will get lost before reaching it
+
+Go to the office
+Remarks
+	 This command is for DSPL and OPL only
+	 All access doors to office bust be closed.
+
+Grasp the tray the mints to the desk
+mints
+	 is not at the living table but somewhere else in the same room
+Remarks
+	 This command is for DSPL and OPL only
+
+Go to the sink, meet the containers, and come after it
+containers
+	 Replace containers with Hanna
+Remarks
+	 Destination is bedroom
+
+Robot please meet Charlie at the living table, go after him, and guide him back
+Remarks
+	 The robot must follow Charlie outside the arena
+
+Meet Charlie at the cabinet, follow him, and escort him back
+Remarks
+	 The robot must follow Charlie outside the arena
+
+Follow Samantha
+Samantha
+	 Samantha is at the TV stand
+
+Lead Erika to the dining table
+Erika
+	 Erika is at the TV stand
+
+Bring me the lightest candies from the pringles from the bedside
+bedside
+	 Place at least 5 objects in the bedside
+Remarks
+	 This command is for DSPL and OPL only
+
+Grasp the bowl the noodles to the bar
+noodles
+	 is not at the dining table but somewhere else in the same room
+Remarks
+	 This command is for DSPL and OPL only
+
+Tell me how many bowl there are on the dining table
+
+Please bring me the thinnest object from the melon from the desk
+desk
+	 Place at least 5 objects in the desk
+Remarks
+	 This command is for DSPL and OPL only
+
+Give me the object behind the cloth from the counter
+counter
+	 Place at least 5 objects in the counter
+Remarks
+	 This command is for DSPL and OPL only
+
+Meet Michael at the TV stand, go after him, and go to the office
+Remarks
+	 The robot must follow Michael outside the arena
+
+Could you find the cloth in the living room
+
+Could you please meet Alex at the bed, follow her, and escort her back
+Remarks
+	 The robot must follow Alex outside the arena
+
+Please give me the right most object from the dining table
+dining table
+	 Place at least 5 objects in the dining table
+Remarks
+	 This command is for DSPL and OPL only
+
+Could you give me a toiletries
+toiletries
+	sponge
+Remarks
+	 This command is for DSPL and OPL only
+
+Locate three candies in the living room
+living room
+	 Place only 3 objects in the room
+
+Please give me the largest toiletries from the melon from the TV stand
+TV stand
+	 Place at least 5 objects in the TV stand
+Remarks
+	 This command is for DSPL and OPL only
+
+Navigate to the sink, meet Alex, and go after her to the sink
+sink
+	 Destination is kitchen
+
+Could you meet Samuel at the TV stand, go after him, and escort him back
+Remarks
+	 The robot must follow Samuel outside the arena
+
+Find three toiletries in the bathroom
+bathroom
+	 Place only 3 objects in the room
+
+Could you meet Barbara at the desk, follow her, and navigate to the bathroom
+Remarks
+	 The robot must follow Barbara outside the arena
+
+Meet Jackie at the sink, follow her, and navigate to the living room
+Remarks
+	 The robot must follow Jackie outside the arena
+
+Escort Erika from the dining table to the sink
+Erika
+	 is not at the dining table but somewhere else in the same room
+
+Escort Jackie from the dining table to the dining table
+dining table
+	 Destination is living table
+
+Could you bring me the melon
+melon
+	 is not at the dining table but somewhere else in the same room
+Remarks
+	 This command is for DSPL and OPL only
+
+Bring me the melon
+melon
+	 is not at the cupboard but somewhere else in the same room
+Remarks
+	 This command is for DSPL and OPL only
+
+Robot please bring me the cloth
+cloth
+	 is not at the sideshelf but somewhere else in the same room
+Remarks
+	 This command is for DSPL and OPL only
+
+Look for the bowl in the bedroom
+
+Could you meet Samuel and lead him
+Samuel
+	 Samuel must be taken from TV stand to dining table, but he will get lost before reaching it
+
+Could you please guide Charlie from the bed to the bed
+bed
+	 Destination is bed
+
+Go after Edward
+Edward
+	 Edward is at the cabinet
+
+Give me the heaviest candies from the coke from the cupboard
+cupboard
+	 Place at least 5 objects in the cupboard
+Remarks
+	 This command is for DSPL and OPL only
+
+Go after Samantha
+Samantha
+	 Samantha is at the living table
+
+Look for the cloth in the kitchen
+
+Please take Barbara to the living table
+Barbara
+	 Barbara is at the sink
+
+Robot please Pour some cereals into the bowl
+Remarks
+	 This command is for DSPL and OPL only
+
+Could you Pour some cereals into the bowl
+Remarks
+	 This command is for DSPL and OPL only
+
+Bring me the object on top of the apple from the living shelf
+living shelf
+	 Place at least 5 objects in the living shelf
+Remarks
+	 This command is for DSPL and OPL only
+
+Please Tell me how many tray there are on the sink
+
+Pour some cereals into the bowl
+Remarks
+	 This command is for DSPL and OPL only
+
+Robot please bring me the right most object from the drawer
+drawer
+	 Place at least 5 objects in the drawer
+Remarks
+	 This command is for DSPL and OPL only
+
+Bring me a drinks
+drinks
+	coke
+Remarks
+	 This command is for DSPL and OPL only
+
+Look for the cloth in the living room
+
+Tell me which are the three lightest objects on the dining table
+dining table
+	 Place at least 5 objects on the dining table
+
+Lead Charlie to the desk
+Charlie
+	 Charlie is at the desk
+
+Robot please guide Ken from the cabinet to the cabinet
+cabinet
+	 Destination is cabinet
+
+Please meet Edward at the bed, go after him, and escort him back
+Remarks
+	 The robot must follow Edward outside the arena
+
+Could you bring me a candies
+candies
+	chocolate bar
+Remarks
+	 This command is for DSPL and OPL only
+
+Bring me a drinks
+drinks
+	beer
+Remarks
+	 This command is for DSPL and OPL only
+
+Could you navigate to the bedroom
+Remarks
+	 This command is for DSPL and OPL only
+	 All access doors to bedroom bust be closed.
+
+Please Tell me how many bowl there are on the dining table
+
+Could you accompany Erik from the cabinet to the cabinet
+cabinet
+	 Destination is bed
+
+Give me the largest object from the paprika from the center table
+center table
+	 Place at least 5 objects in the center table
+Remarks
+	 This command is for DSPL and OPL only
+
+Pour some cereals into the bowl
+Remarks
+	 This command is for DSPL and OPL only
+
+Find three snacks in the kitchen
+kitchen
+	 Place only 3 objects in the room
+
+Give me the heaviest object from the sushi from the sideshelf
+sideshelf
+	 Place at least 5 objects in the sideshelf
+Remarks
+	 This command is for DSPL and OPL only
+
+Robot please meet Jackie at the dining table, follow her, and go to the bedroom
+Remarks
+	 The robot must follow Jackie outside the arena
+
+Navigate to the cabinet, meet Ken, and follow him to the cabinet
+cabinet
+	 Destination is bathroom
+
+Give me the left most object from the counter
+counter
+	 Place at least 5 objects in the counter
+Remarks
+	 This command is for DSPL and OPL only
+
+Robot please meet Erika at the bed, go after her, and take her back
+Remarks
+	 The robot must follow Erika outside the arena
+
+Follow Edward
+Edward
+	 Edward is at the TV stand
+
+Locate three toiletries in the bedroom
+bedroom
+	 Place only 3 objects in the room
+
+Meet Skyler at the desk, come after her, and navigate to the office
+Remarks
+	 The robot must follow Skyler outside the arena
+
+Give me the object on top of the senbei from the desk
+desk
+	 Place at least 5 objects in the desk
+Remarks
+	 This command is for DSPL and OPL only
+
+Could you please meet Charlie at the bed, follow him, and accompany him back
+Remarks
+	 The robot must follow Charlie outside the arena
+
+Tell me how many tray there are on the bar
+
+Meet Erika at the bed, go after her, and go to the corridor
+Remarks
+	 The robot must follow Erika outside the arena
+
+Robot please meet Hanna and lead her
+Hanna
+	 Hanna must be taken from bed to dining table, but he will get lost before reaching it
+
+Could you meet Michael at the TV stand, go after him, and escort him back
+Remarks
+	 The robot must follow Michael outside the arena
+
+Navigate to the living table, meet Alex, and go after him to the living room
+Alex
+	 is not at the living table but somewhere else in the same room
+
+Give me a containers
+containers
+	glass
+Remarks
+	 This command is for DSPL and OPL only
+
+Please take the candies from the living table to the TV stand
+candies
+	 Replace candies with Samuel
+
+Meet Erika at the dining table, follow her, and go to the office
+Remarks
+	 The robot must follow Erika outside the arena
+
+Locate the cloth in the bathroom
+
+Meet Skyler at the living table, come after him, and take him back
+Remarks
+	 The robot must follow Skyler outside the arena
+
+Place the apple on the sink
+apple
+	 is not at the dining table but somewhere else in the same room
+Remarks
+	 This command is for DSPL and OPL only
+
+Tell me how many tray there are on the living shelf
+
+Take the senbei from the TV stand to the cabinet
+senbei
+	 Replace senbei with Erika
+
+Please Tell me which are the three lightest food on the bookcase
+bookcase
+	 Place at least 5 objects on the bookcase
+
+Give me the heaviest candies from the soap from the dining table
+dining table
+	 Place at least 5 objects in the dining table
+Remarks
+	 This command is for DSPL and OPL only
+
+Meet Samantha at the sink, follow her, and lead her back
+Remarks
+	 The robot must follow Samantha outside the arena
+
+Robot please deliver food to Alex
+food
+	apple
+Alex
+	 Alex is at the dining table
+
+Could you please grasp the tray the sushi to the TV stand
+sushi
+	 is not at the cupboard but somewhere else in the same room
+Remarks
+	 This command is for DSPL and OPL only
+
+Could you please look for the tray in the corridor
+
+Please Pour some cereals into the bowl
+Remarks
+	 This command is for DSPL and OPL only
+
+Navigate to the bed, meet Hanna, and follow her to the bed
+bed
+	 Destination is bathroom
+
+Bring me the left most object from the cabinet
+cabinet
+	 Place at least 5 objects in the cabinet
+Remarks
+	 This command is for DSPL and OPL only
+
+Please accompany Edward from the living table to the living table
+living table
+	 Destination is TV stand
+
+Please Tell me how many bowl there are on the sink
+
+Go to the dining table, meet Barbara, and come after her to the dining table
+dining table
+	 Destination is living room
+
+Could you please meet Hanna at the cabinet, go after her, and go to the bathroom
+Remarks
+	 The robot must follow Hanna outside the arena
+
+Robot please meet Erik at the TV stand, go after him, and navigate to the kitchen
+Remarks
+	 The robot must follow Erik outside the arena
+
+Tell me how many cloth there are on the bar
+
+Tell me how many tray there are on the TV stand
+
+Navigate to the sink, meet Erik, and come after him to the bedroom
+Erik
+	 is not at the sink but somewhere else in the same room
+
+Tell me which are the three biggest objects on the bar
+bar
+	 Place at least 5 objects on the bar
+
+Go to the dining table, meet the drinks, and follow it
+drinks
+	 Replace drinks with Samuel
+Remarks
+	 Destination is bedroom
+
+Could you bring me the heaviest candies from the flakes from the drawer
+drawer
+	 Place at least 5 objects in the drawer
+Remarks
+	 This command is for DSPL and OPL only
+
+Grasp the cloth the peanuts to the cupboard
+peanuts
+	 is not at the living table but somewhere else in the same room
+Remarks
+	 This command is for DSPL and OPL only
+
+Could you please follow Michael
+Michael
+	 Michael is at the bed
+
+Give me the heaviest object from the mug from the bar
+bar
+	 Place at least 5 objects in the bar
+Remarks
+	 This command is for DSPL and OPL only
+
+Accompany Brian to the sink
+Brian
+	 Brian is at the desk
+
+Could you please give me a toiletries
+toiletries
+	cloth
+Remarks
+	 This command is for DSPL and OPL only
+
+Please Tell me how many bowl there are on the desk
+
+Meet Sophie at the bed, go after her, and navigate to the bathroom
+Remarks
+	 The robot must follow Sophie outside the arena
+
+Go to the office
+Remarks
+	 This command is for DSPL and OPL only
+	 All access doors to office bust be closed.
+
+Could you please put the paprika on the bar
+paprika
+	 is not at the desk but somewhere else in the same room
+Remarks
+	 This command is for DSPL and OPL only
+
+Go to the dining table, meet Ken, and accompany him
+Ken
+	 Ken must be taken from dining table to bed, but he will get lost before reaching it
+
+Navigate to the living table, meet Charlie, and take her
+Charlie
+	 Charlie must be taken from living table to bed, but he will get lost before reaching it
+
+Give me the chocolate egg
+chocolate egg
+	 is not at the living table but somewhere else in the same room
+Remarks
+	 This command is for DSPL and OPL only
+
+Meet Erik at the bed, follow him, and guide him back
+Remarks
+	 The robot must follow Erik outside the arena
+
+Get the cloth the paprika to the sideshelf
+paprika
+	 is not at the bookcase but somewhere else in the same room
+Remarks
+	 This command is for DSPL and OPL only
+
+Locate three snacks in the corridor
+corridor
+	 Place only 3 objects in the room
+
+Pick up the tray the sushi to the bedside
+sushi
+	 is not at the sink but somewhere else in the same room
+Remarks
+	 This command is for DSPL and OPL only
+
+Tell me which are the three heaviest objects on the TV stand
+TV stand
+	 Place at least 5 objects on the TV stand
+
+Could you please meet Brian at the living table, come after him, and lead him back
+Remarks
+	 The robot must follow Brian outside the arena
+
+Could you please go to the living table, meet Skyler, and come after her to the bathroom
+Skyler
+	 is not at the living table but somewhere else in the same room
+
+Look for three toiletries in the bathroom
+bathroom
+	 Place only 3 objects in the room
+
+Grasp the bowl the coke to the cabinet
+coke
+	 is not at the dining table but somewhere else in the same room
+Remarks
+	 This command is for DSPL and OPL only
+
+Meet Skyler at the dining table, come after him, and accompany him back
+Remarks
+	 The robot must follow Skyler outside the arena
+
+Could you please meet Skyler at the living table, go after him, and navigate to the kitchen
+Remarks
+	 The robot must follow Skyler outside the arena
+
+Could you deliver containers to me
+containers
+	mug
+
+Find the bowl in the corridor
+
+Take the tray the flakes to the living shelf
+flakes
+	 is not at the desk but somewhere else in the same room
+Remarks
+	 This command is for DSPL and OPL only
+
+Meet Alex at the sink, come after him, and go to the bedroom
+Remarks
+	 The robot must follow Alex outside the arena
+
+Meet Charlie at the sink, come after her, and navigate to the corridor
+Remarks
+	 The robot must follow Charlie outside the arena
+
+Please go to the bed, meet Skyler, and come after him to the office
+Skyler
+	 is not at the bed but somewhere else in the same room
+
+Go to the TV stand, meet the beer, and follow it
+beer
+	 Replace beer with Jackie
+Remarks
+	 Destination is bedroom
+
+Meet Samuel and escort him
+Samuel
+	 Samuel must be taken from dining table to sink, but he will get lost before reaching it
+
+Navigate to the cabinet, meet Samantha, and follow her to the kitchen
+Samantha
+	 is not at the cabinet but somewhere else in the same room
+
+Robot please guide the drinks from the sink to the bed
+drinks
+	 Replace drinks with Samantha
+
+Meet Ken at the TV stand, follow him, and lead him back
+Remarks
+	 The robot must follow Ken outside the arena
+
+Lead Ken from the living table to the living table
+living table
+	 Destination is sink
+
+Could you please Tell me which are the three largest objects on the cupboard
+cupboard
+	 Place at least 5 objects on the cupboard
+
+Escort Erika to the desk
+Erika
+	 Erika is at the living table
+
+Meet Michael at the living table, go after him, and accompany him back
+Remarks
+	 The robot must follow Michael outside the arena
+
+Meet Alex and take him
+Alex
+	 Alex must be taken from cabinet to sink, but he will get lost before reaching it
+
+Look for three candies in the kitchen
+kitchen
+	 Place only 3 objects in the room
+
+Navigate to the TV stand, meet Michael, and go after him to the office
+Michael
+	 is not at the TV stand but somewhere else in the same room
+
+Meet Hanna at the cabinet, come after her, and go to the kitchen
+Remarks
+	 The robot must follow Hanna outside the arena
+
+Tell me how many tray there are on the drawer
+
+Bring me the object on top of the coke from the sink
+sink
+	 Place at least 5 objects in the sink
+Remarks
+	 This command is for DSPL and OPL only
+
+Could you look for the tray in the kitchen
+
+Meet Brian at the sink, follow him, and take him back
+Remarks
+	 The robot must follow Brian outside the arena
+
+Could you please meet Edward at the desk, follow him, and navigate to the corridor
+Remarks
+	 The robot must follow Edward outside the arena
+
+Robot please take the bowl the noodles to the bedside
+bedside
+	 Block access to bedside with a movable object or furniture
+Remarks
+	 This command is for DSPL and OPL only
+
+Go to the dining table, meet Samuel, and go after him to the living room
+Samuel
+	 is not at the dining table but somewhere else in the same room
+
+Pour some cereals into the bowl
+Remarks
+	 This command is for DSPL and OPL only
+
+Navigate to the cabinet, meet Edward, and follow him to the cabinet
+cabinet
+	 Destination is corridor
+
+Could you follow Thomas
+Thomas
+	 Thomas is at the living table
+
+Go to the TV stand, meet Skyler, and escort him
+Skyler
+	 Skyler must be taken from TV stand to bed, but he will get lost before reaching it
+
+Could you give me the cloth
+cloth
+	 is not at the TV stand but somewhere else in the same room
+Remarks
+	 This command is for DSPL and OPL only
+
+Robot please bring me a toiletries
+toiletries
+	sponge
+Remarks
+	 This command is for DSPL and OPL only
+
+Find the cloth in the kitchen
+
+Could you please navigate to the kitchen
+Remarks
+	 This command is for DSPL and OPL only
+	 All access doors to kitchen bust be closed.
+
+Tell me how many cloth there are on the sideshelf
+
+Deliver food to me
+food
+	apple
+
+Tell me how many tray there are on the counter
+
+Could you please grasp the tray the sushi to the sink
+sushi
+	 is not at the cupboard but somewhere else in the same room
+Remarks
+	 This command is for DSPL and OPL only
+
+Could you please Tell me how many tray there are on the cupboard
+
+Could you please take Ken from the TV stand to the TV stand
+TV stand
+	 Destination is cabinet
+
+Bring me the object at the left of the sushi from the fridge
+fridge
+	 Place at least 5 objects in the fridge
+Remarks
+	 This command is for DSPL and OPL only
+
+Meet Charlie at the dining table, go after her, and accompany her back
+Remarks
+	 The robot must follow Charlie outside the arena
+
+Could you please meet Edward at the dining table, come after him, and navigate to the kitchen
+Remarks
+	 The robot must follow Edward outside the arena
+
+Locate the cloth in the corridor
+
+Go to the kitchen
+Remarks
+	 This command is for DSPL and OPL only
+	 All access doors to kitchen bust be closed.
+
+Locate three containers in the bedroom
+bedroom
+	 Place only 3 objects in the room
+
+Navigate to the living table, meet Erika, and follow her to the bathroom
+Erika
+	 is not at the living table but somewhere else in the same room
+
+Meet Samantha and guide her
+Samantha
+	 Samantha must be taken from living table to sink, but he will get lost before reaching it
+
+Meet Skyler and escort him
+Skyler
+	 Skyler must be taken from cabinet to sink, but he will get lost before reaching it
+
+Meet Edward at the living table, follow him, and escort him back
+Remarks
+	 The robot must follow Edward outside the arena
+
+Meet Edward at the living table, come after him, and take him back
+Remarks
+	 The robot must follow Edward outside the arena
+
+Could you navigate to the sink, meet Ken, and take him
+Ken
+	 Ken must be taken from sink to desk, but he will get lost before reaching it
+
+Give me the lightest snacks from the coke from the center table
+center table
+	 Place at least 5 objects in the center table
+Remarks
+	 This command is for DSPL and OPL only
+
+Could you please meet Ken at the TV stand, follow him, and navigate to the corridor
+Remarks
+	 The robot must follow Ken outside the arena
+
+Please go to the TV stand, meet Barbara, and lead her
+Barbara
+	 Barbara must be taken from TV stand to living table, but he will get lost before reaching it
+
+Give me the biggest object from the chocolate bar from the TV stand
+TV stand
+	 Place at least 5 objects in the TV stand
+Remarks
+	 This command is for DSPL and OPL only
+
+Please take the tray the manju to the cupboard
+manju
+	 is not at the counter but somewhere else in the same room
+Remarks
+	 This command is for DSPL and OPL only
+
+Robot please Pour some cereals into the bowl
+Remarks
+	 This command is for DSPL and OPL only
+
+Go to the living table, meet the coke, and follow it
+coke
+	 Replace coke with Skyler
+Remarks
+	 Destination is office
+
+Get the bowl the flakes to the bar
+bar
+	 Block access to bar with a movable object or furniture
+Remarks
+	 This command is for DSPL and OPL only
+
+Could you please meet Skyler at the living table, follow him, and escort him back
+Remarks
+	 The robot must follow Skyler outside the arena
+
+Could you accompany Michael from the bed to the bed
+bed
+	 Destination is sink
+
+Give me the left most object from the fridge
+fridge
+	 Place at least 5 objects in the fridge
+Remarks
+	 This command is for DSPL and OPL only
+
+Locate the bowl in the kitchen
+
+Take the tray the sushi to the bar
+sushi
+	 is not at the living shelf but somewhere else in the same room
+Remarks
+	 This command is for DSPL and OPL only
+
+Robot please locate three snacks in the bathroom
+bathroom
+	 Place only 3 objects in the room
+
+Navigate to the sink, meet the containers, and come after it
+containers
+	 Replace containers with Hanna
+Remarks
+	 Destination is office
+
+Bring me the object on top of the paprika from the cupboard
+cupboard
+	 Place at least 5 objects in the cupboard
+Remarks
+	 This command is for DSPL and OPL only
+
+Meet Edward at the desk, come after him, and navigate to the living room
+Remarks
+	 The robot must follow Edward outside the arena
+
+Please grasp the cloth the apple to the desk
+apple
+	 is not at the bookcase but somewhere else in the same room
+Remarks
+	 This command is for DSPL and OPL only
+
+Go to the living room
+Remarks
+	 This command is for DSPL and OPL only
+	 All access doors to living room bust be closed.
+
+Go after Charlie
+Charlie
+	 Charlie is at the cabinet
+
+Deliver candies to me
+candies
+	chocolate bar
+
+Go to the dining table, meet Charlie, and go after her to the dining table
+dining table
+	 Destination is corridor
+
+Give me the object above the melon from the drawer
+drawer
+	 Place at least 5 objects in the drawer
+Remarks
+	 This command is for DSPL and OPL only
+
+Could you please bring me the object at the left of the glass from the cupboard
+cupboard
+	 Place at least 5 objects in the cupboard
+Remarks
+	 This command is for DSPL and OPL only
+

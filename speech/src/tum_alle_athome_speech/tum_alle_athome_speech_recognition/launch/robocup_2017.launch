@@ -1,0 +1,13 @@
+<launch>
+	<node name="tum_alle_athome_speech_recognition" pkg="tum_alle_athome_speech_recognition" type="recogniser.py" output="screen">
+		<!-- mic name as specified in pacmd list-sources -->
+		<param name="mic_name" value="alsa_input.pci-0000_00_1b.0.analog-stereo"/>
+		<!--<param name="mic_name" value="audio-input-microphone"/>-->
+		<param name="lm" value="$(find tum_alle_athome_speech_recognition)/language_models/4661.lm"/>
+		<param name="dict" value="$(find tum_alle_athome_speech_recognition)/language_models/4661.dic"/>
+		<param name="perform_task_srv" value="/tum_alle_athome_semantics/perform_task"/>
+		<!-- For Keyphrase recognition uncomment the line below and enter the keyprhases one per line in the file-->
+		<!-- ATTENTION: when the keyphrase recognition is running, non-keyphrase speech will not be recognised-->
+		<!--<param name='kws' value="$(find tum_alle_athome_speech_recognition)/language_models/keyphrases.txt"/>-->
+	</node>
+</launch>

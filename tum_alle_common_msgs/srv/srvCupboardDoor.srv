@@ -1,0 +1,4 @@
+string command       # whatever you want, it's not used
+---
+string position      # one of the following: left, right, top, bottom, none
+bool   door_detected # did we find a door ?

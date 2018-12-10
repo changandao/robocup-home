@@ -1,0 +1,11 @@
+# possible commands:  follow, bring, move, say
+string command
+string object_general_location
+string object_specific_location
+string goal_location
+string goal_object
+string speech_text
+----------------------------------------------------- 
+string status
+
+

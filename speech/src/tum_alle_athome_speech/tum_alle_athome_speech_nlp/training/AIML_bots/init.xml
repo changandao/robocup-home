@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+    <!-- init.xml -->
+    <category>
+        <pattern>LOAD SPR</pattern>
+        <template>
+            <learn>$(find tum_alle_athome_speech_nlp)/training/AIML_bots/competition.aiml</learn>
+            <learn>$(find tum_alle_athome_speech_nlp)/training/AIML_bots/general.aiml</learn>
+            <learn>$(find tum_alle_athome_speech_nlp)/training/AIML_bots/time.aiml</learn>
+        </template>
+
+    </category>
+
+</aiml>

@@ -1,0 +1,65 @@
+tum_alle_athome_perception: {
+  # SERVICES
+  free_spaces                : '/free_space',
+  free_spaces_markers        : '/free_space/markers',
+  get_stable_objects         : '/recognition/get_stable',
+  stable_objects             : '/recognition/stable_objects',
+  cupboard_door_serv         : '/recognition/door/cupboard',
+  cupboard_orientation_serv  : '/recognition/orientation/cupboard',
+  ext_prop_serv              : "/recognition/extract_property",
+  find_table                 : '/getTable',
+  save_recognition           : '/recognition/save',
+  tracker_control            : '/tracker/control',
+  election_server            : '/tracker/election',
+  cluster_person             : '/tracker/cluster_person',
+
+  # TOPICS
+  recognition_bb2D           : '/recognition/bb2D',
+  unlabeled_bb2D             : "/recognition/bb2D/unlabeled",
+  recognition                : '/recognition',
+  recognition_markers        : '/recognition/markers',
+  recognition_optical        : '/recognition_optical',
+  recognition_optical_markers: '/recognition_optical/markers',
+  recognition_point_cloud    : '/recognition/point_cloud',
+  cluster_objects_pc         : '/recognition/cluster_point_cloud',
+  cluster_objects_markers    : '/recognition/cluster_markers',
+
+  tracker                    : '/tracking',
+  tracker_markers            : '/tracker/markers',
+  tracker_optical            : '/tracking_optical',
+  tracker_optical_markers    : '/tracking_optical/markers',
+  tracker_corrections        : '/tracker/corrections',
+  tracker_tracked            : '/tracker/tracked',
+  tracker_optical_tracked    : '/tracker_optical/tracked',
+
+  rgb_camera                 : '/xtion/rgb/image_raw',
+  rgb_camera_info            : '/xtion/rgb/camera_info',
+  depth_camera               : '/xtion/depth_registered/image_raw',
+  depth_camera_info          : '/xtion/depth_registered/camera_info',
+
+  camera_frame               : 'xtion_rgb_optical_frame',
+  map_frame                  : 'map',
+}
+
+tum_alle_athome_semantics: {
+  cluster_objects: '/tiago/mind/knowledge/cluster_objects',
+  infer_object: '/tiago/mind/reasoning_bring/infer_object_list',
+  infer_storage: '/tiago/mind/reasoning_bring/infer_storage',
+
+  assert_property: '/tiago/mind/test/assert_property',
+  call_query: '/tiago/mind/test/call_query',
+  check_property: '/tiago/mind/test/check_property',
+  check_query: '/tiago/mind/test/check_query',
+  create_instance: '/tiago/mind/test/create_instance',
+  find_instances: '/tiago/mind/test/find_instances',
+  show_instances: '/tiago/mind/test/show_instances',
+  show_property: '/tiago/mind/test/show_property',
+  show_property_value: '/tiago/mind/test/show_property_value',
+
+}
+
+tum_alle_athome_speech: {
+  tts_server: '/tiago/speech/tts',
+  tts_state: '/tiago/speech/tts_with_state',
+  tts_topic: '/tiago/speech/tts',
+}

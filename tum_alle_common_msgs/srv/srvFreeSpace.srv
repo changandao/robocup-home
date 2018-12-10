@@ -1,0 +1,12 @@
+msg2DRecognition clust2D
+---
+geometry_msgs/Point[] left_cluster
+geometry_msgs/Point[] left_of
+geometry_msgs/Point[] right_cluster
+geometry_msgs/Point[] right_of
+
+msg3DPrediction[] unknown_objects
+geometry_msgs/Point[] unknown_left_cluster
+geometry_msgs/Point[] unknown_left_of
+geometry_msgs/Point[] unknown_right_cluster
+geometry_msgs/Point[] unknown_right_of

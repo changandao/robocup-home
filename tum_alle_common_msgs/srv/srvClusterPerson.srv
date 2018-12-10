@@ -1,0 +1,4 @@
+geometry_msgs/Point   pos
+geometry_msgs/Vector3 size
+---
+geometry_msgs/Point   pos

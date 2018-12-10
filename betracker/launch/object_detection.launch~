@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<launch>
+  <!-- Console launch prefix -->
+  <!--arg name="launch_prefix" default=""/>
+
+
+  <arg name="yolo_weights_path"          default="$(find darknet_ros)/yolo_network_config/weights"/>
+  <arg name="yolo_config_path"           default="$(find darknet_ros)/yolo_network_config/cfg"/>
+
+
+  <rosparam command="load" ns="darknet_ros" file="$(find darknet_ros)/config/ros.yaml"/>
+  <rosparam command="load" ns="darknet_ros" file="$(find darknet_ros)/config/yolov2-tiny.yaml"/>
+  <remap from="/camera/rgb/image_raw" to="/xtion/rgb/image_rect_color"/>
+
+  <node pkg="darknet_ros" type="darknet_ros" name="darknet_ros" output="screen" launch-prefix="$(arg launch_prefix)">
+    <param name="weights_path"          value="$(arg yolo_weights_path)" />
+    <param name="config_path"           value="$(arg yolo_config_path)" />
+  </node-->
+<rosparam command="load" ns="betracker" file="$(find betracker)/config/parameters.yaml" />
+<include file="$(find darknet_ros)/launch/person_darknet_ros.launch">
+    <arg name="launch_prefix" value="gdb -ex run --args"/>
+  </include>
+ <!--<node name="republish" type="republish" pkg="image_transport" output="screen" 	args="compressed in:=/front_camera/image_raw raw out:=/camera/image_raw" /> -->
+ <!--node name="tracker_ukf" type="tracker_ukf" pkg="betracker" output="screen" 	args="-d $(find betracker)/src/betracker_node.cpp"/-->
+  <!--node name="object_sending" type="object_sending" pkg="perception" output="screen" 	args="-d $(find betracker)/src/object_sending.cpp"/-->
+</launch>
+

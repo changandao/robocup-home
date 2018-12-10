@@ -1,0 +1,10 @@
+# Note: buffer_time is only used if you set flush_cache to True,
+# and the default value of flush_cache is False. So if you're using
+# the past information you don't need to set anything on the request message.
+
+bool    flush_cache
+float32 buffer_time
+bool    table_objects
+---
+msg3DRecognition result
+msg3DRecognition result_optical

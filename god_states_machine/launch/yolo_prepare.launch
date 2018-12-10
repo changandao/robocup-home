@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+	
+<<<<<<< HEAD
+  	<include file="$(find darknet_ros)/launch/person_darknet_ros.launch"></include>
+<rosparam command="load" ns="tracker_ukf" file="$(find betracker)/config/parameters.yaml" />
+=======
+<rosparam command="load" ns="tracker_ukf" file="$(find betracker)/config/parameters.yaml" />
+  <include file="$(find darknet_ros)/launch/person_darknet_ros.launch">
+    <arg name="launch_prefix" value="gdb -ex run --args"/>
+  </include>
+>>>>>>> cc9392bc67e44b10c1c80bc4ba0a97209018581e
+  
+</launch>

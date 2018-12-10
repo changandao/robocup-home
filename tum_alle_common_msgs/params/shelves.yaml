@@ -1,0 +1,44 @@
+shelves: {
+  shelf_1: [ 0.0, 0.0, -0.45],
+  shelf_2: [ 0.0, 0.0, -0.45],
+  shelf_3: [ 0.0, 0.0, -0.26],
+  shelf_4: [ 0.34, 0.0, -0.04],
+  shelf_5: [ 0.34, 0.0, -0.04],
+}
+
+shelf_1: {
+  torso_lift_joint: 0.0,
+  head_1_joint: 0.0,
+  head_2_joint: -0.45,
+}
+
+shelf_2: {
+  torso_lift_joint: 0.0,
+  head_1_joint: 0.0,
+  head_2_joint: -0.45,
+}
+
+shelf_3: {
+  torso_lift_joint: 0.0,
+  head_1_joint: 0.0,
+  head_2_joint: -0.26,
+}
+
+shelf_4: {
+  torso_lift_joint: 0.34,
+  head_1_joint: 0.0,
+  head_2_joint: -0.04,
+}
+
+shelf_5: {
+  torso_lift_joint: 0.34,
+  head_1_joint: 0.0,
+  head_2_joint: -0.04,
+}
+
+ranges: {
+  pos_list: ['position_1', 'position_2', 'position_3'],
+  position_1: [ 0.15, 0.75],
+  position_2: [ 0.75, 1.05],
+  position_3: [ 1.05, 1.65],
+}

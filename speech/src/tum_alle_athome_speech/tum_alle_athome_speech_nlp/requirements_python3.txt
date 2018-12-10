@@ -1,0 +1,3 @@
+numpy
+nltk
+git+https://github.com/weddige/pyaiml3

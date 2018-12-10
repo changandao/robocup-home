@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+
+
+<rosparam command="load" ns="betracker" file="$(find betracker)/config/parameters.yaml" />
+<node name="tracker_ukf" type="tracker_ukf" pkg="betracker" output="screen" 	args="-d $(find betracker)/src/betracker_node.cpp"/>
+
+
+</launch>

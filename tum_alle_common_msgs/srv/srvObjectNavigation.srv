@@ -1,0 +1,4 @@
+string command
+string object_id
+----------------------------------------------------- 
+geometry_msgs/PointStamped point

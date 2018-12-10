@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+  <category>
+   <pattern>WHAT TIME IS IT</pattern>
+   <template>The time is $time</template>
+ </category>
+ <category>
+   <pattern>TELL ME THE TIME</pattern>
+   <template>The time is $time</template>
+  </category>
+  <category>
+   <pattern>WHAT MONTH IS IT</pattern>
+   <template>It is $month currently</template>
+  </category>
+  <category>
+   <pattern>WHAT DATE IS IT</pattern>
+   <template>Today is $date</template>
+  </category>
+  <category>
+   <pattern>WHAT DAY IS IT</pattern>
+   <template>Today is $day</template>
+  </category>
+  <category>
+   <pattern>WHAT YEAR IS IT</pattern>
+   <template>We have $year</template>
+  </category>
+</aiml>

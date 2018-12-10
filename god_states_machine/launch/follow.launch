@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+
+
+	<node name="simple_navigation_goals" pkg="navigation" type="simple_navigation_goals" output="screen"/>
+	<!--<node name="yolo_roi" type="yolo_roi" pkg="perception" output="screen"/>
+	<node name="head_tracking" type="head_tracking" pkg="perception" output="screen"/>-->
+	<node name="depthprocessing" type="depthprocessing" pkg="perception" output="screen" />
+	<node name="tracker_ukf" type="tracker_ukf" pkg="betracker" output="screen" />
+
+</launch>

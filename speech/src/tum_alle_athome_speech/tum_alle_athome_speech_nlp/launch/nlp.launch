@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+
+  <node name="nlp_intent_classifier" pkg="tum_alle_athome_speech_nlp" type="intent.py" cwd="node" output="screen" />
+  <node name="nlp_predefined" pkg="tum_alle_athome_speech_nlp" type="predefined.py" cwd="node" output="screen" />
+  <node name="nlp_process" pkg="tum_alle_athome_speech_nlp" type="process_text.py" cwd="node" output="screen" />
+
+</launch>

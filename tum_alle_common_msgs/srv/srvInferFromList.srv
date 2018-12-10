@@ -1,0 +1,7 @@
+tum_alle_common_msgs/msg2DPrediction[] pred2D
+tum_alle_common_msgs/msg3DPrediction[] pred3D
+---
+bool result
+msgGraspInfo grasp
+msgGraspInfo place
+string[] cluster_labels

@@ -1,0 +1,5 @@
+string intent
+string[] properties
+string[] values
+---------------------
+string answer

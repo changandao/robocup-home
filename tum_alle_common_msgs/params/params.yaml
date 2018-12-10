@@ -1,0 +1,44 @@
+tum_alle_athome_common: {
+  robot: true,
+  debug: true,
+}
+
+tum_alle_athome_control: {
+  place_x_offset: 0.0,
+  place_y_offset: 0.0,
+  place_z_offset: 0.02,
+  max_reach: 1.5,
+}
+
+
+tum_alle_athome_semantics: {
+  threshold_x: 0.10,
+  threshold_y: 0.10,
+  threshold_z: 0.10,
+}
+
+tum_alle_athome_perception: {
+  # See tum..perception_objects/src/election.py to find all the possible
+  # parameters, to change the default value of one of them, add it here
+  # e.g.
+  # svc_C: 10.0,
+  # kmeans_n_jobs: 1,
+  stable_objects_filter: ["tvmonitor", "person", "__null__","refrigerator"],
+  buffer_time: 3.0,
+
+  sac_model_max_iterations_        : 1000,
+  sac_model_distance_threshold_    : 0.02,
+  down_sampling_voxel_size_        : 0.01,
+  clustering_tolerance             : 0.02,
+  clustering_min_size              :   30,
+  clustering_max_size              : 1000,
+  clust_obj_passthrough_x_low      :  0.0,
+  clust_obj_passthrough_x_upp      :  1.5,
+  clust_obj_passthrough_y_low      : -1.0,
+  clust_obj_passthrough_y_upp      :  1.0,
+  clust_obj_passthrough_z_low      :  0.0,
+  clust_obj_passthrough_z_upp      :  0.0,
+  cluster_objects_processing_frame : "base_link",
+
+  cupboard_door_thresh             : .8,
+}

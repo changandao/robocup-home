@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+
+	<node name="yolo_roi" type="yolo_roi" pkg="perception" output="screen" />
+	<node name="head_tracking" type="head_tracking" pkg="perception" output="screen" />
+	
+	<arg name="rviz"     default="true"/>
+        <arg name="public_sim"   default="false"/>
+	<arg name="sim_sufix" value="_public_sim"     if="$(arg public_sim)"/>
+	<arg name="sim_sufix" value=""                unless="$(arg public_sim)"/>
+
+	<node name="rviz" pkg="rviz" type="rviz" if="$(arg rviz)"
+		  args="-d $(find tiago_2dnav)/config/rviz/navigation_public_sim.rviz"/>
+
+	
+
+</launch>

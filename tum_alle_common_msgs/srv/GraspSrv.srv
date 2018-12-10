@@ -1,0 +1,4 @@
+geometry_msgs/PoseStamped pose
+std_msgs/Float64 width
+---
+std_msgs/Bool result
